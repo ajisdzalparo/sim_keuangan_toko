@@ -1,0 +1,28 @@
+PROJECT SISTEM INFORMASI MANAJEMEN KEUANGAN TOKO
+
+Fitur :
+1. Login/Register (Role Admin & Owner)
+2. Grafik Laporan Keuangan (Bulanan & Tahunan)
+3. Export PDF
+4. Pengeluaran Hari Ini
+5. Pengeluaran Bulan Ini
+6. Pengeluaran Tahun Ini
+7. Grafik Data Pemasukan & Pengeluaran Per Bulan
+8. Grafik Data Pemasukan & Pengeluaran Per Tahun
+
+Pengolahan Data:
+1. Kategori transaksi
+2. Nama produk/barang
+3. Transaksi pemasukan/pengeluaran
+4. Akun bank
+5. Pendaftaran akun admin oleh owner
+6. Ganti password
+
+Deskripsi Web:
+1. Terdapat halaman login untuk owner dan admin (admin dapat login setelah dibuatkan akun oleh owner)
+2. Website tersebut memiliki halaman dashboard (admin dan owner berbeda) yang masing2 sesuai dengan hak akses rolenya
+	- CRUD admin hanya dapat menginputkan barang kedalam inventory dan menginputkan laporan barang yang terjual (perhari) dan ketika edit data akan tercatat tanggal pengeditan
+	- Owner hanya memiliki fitur Read (melihat laporan barang terjual dan laporan keuangan perbulan dan pertahun)
+
+
+Deadline 3 minggu (Toleransi +3 dari deadline)
